@@ -1,3 +1,2 @@
-# Principia: Marginal Rigidity
-## Introduction
-## Predicate Logic
+# Principia
+Principia of Logics, Mathematics, Computer Science and Physics.
